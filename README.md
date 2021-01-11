@@ -9,4 +9,5 @@ If you're new to GitHub just follow the instructions on [Contribution.md](https:
 Add yourself below as a `Team Member`.
 
 ## Team Members:
-- [Anirudh_Jalan](https://github.com/anirudhjalan)
+- [Manish Kumar Barnwal](https://github.com/imanishbarnwal)
+- [Anirudh Jalan](https://github.com/anirudhjalan) 
