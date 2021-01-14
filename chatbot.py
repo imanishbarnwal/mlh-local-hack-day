@@ -8,9 +8,9 @@ def extra_options():
    print('Awesome! Your order will be ready in a mug soon!')
  elif res == 'b':
     print('Okay, no problem! We\'ll get you a plastic cup.')
-  elif res == 'c':
+ elif res == 'c':
     print('Great! We\'ll fill up your reusable cup.')
-  else:
+ else:
     print_message()
     return extra_options()
               
