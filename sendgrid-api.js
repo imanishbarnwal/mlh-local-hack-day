@@ -16,7 +16,7 @@ http.createServer((req, res) => {
 	from: "noreply@example.com", 
 	subject: "Message sent for demo purpose", 
 	html: 
-		"<h1>New message from Geeksforgeeks</h1> 
+		"<h1>New message from Manish</h1> 
 		<p>Some demo text from geeksforgeeks.</p>"
 	}; 
 
